@@ -1,0 +1,4 @@
+jieba
+gensim
+python3
+numpy
